@@ -16,7 +16,7 @@ Thruster model : TS350KV x 6 (Check Technical Drawing)
 |Max Thrust|3.12Kg|
 |PWM setting|1000us-2000us / 50Hz|
 
-Testing parameter:  
+Testing parameter at 1500us / 50% throttle :  
 |Voltage/V|Current/A|Power/W|Thrust/Kg|
 |----------|----------|----------|----------|
 |11.3|3.15|35.595|0.72|
